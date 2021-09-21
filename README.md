@@ -1,4 +1,4 @@
-# Project---1-heart-disease-classification-
+# Project - 1 (heart-disease-classification)
 
 
 # Predicting heart disease using machine learning
